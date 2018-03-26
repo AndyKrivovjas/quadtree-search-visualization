@@ -1,4 +1,5 @@
 # Quadtree Search Visualization
-[Link](https://andykrivovjas.github.io/quadtree-search-visualization/)
+Preview: [Link](https://andykrivovjas.github.io/quadtree-search-visualization/) <br />
+
 ![Demo](./example.jpg)
 
